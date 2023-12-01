@@ -1,3 +1,9 @@
+import { CursorTrail } from "@components";
+
 export default function App() {
-	return <div>App</div>;
+	return (
+		<div>
+			<CursorTrail />
+		</div>
+	);
 }
